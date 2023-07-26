@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //text size
+    <dimen name="text_size_result">24sp</dimen>
+    <dimen name="text_size_random_char">36sp</dimen>
+
+    //margin
+    <dimen name="margin_16">16dp</dimen>
+
+    //minHeight
+    <dimen name="min_height_48">48dp</dimen>
+
+
+</resources>
